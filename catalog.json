@@ -19,7 +19,7 @@
       "id": "magnetar-client",
       "name": "Magnetar Client",
       "author": "Tproplay",
-      "description": "MelonLoader utility client. Installs Magnetar Client.dll, Magnetar Data, Magnetar Translation, and the required UserLibs/DiscordRPC.dll together. On multilingual builds, Blooms_QOL.dll may conflict; disable or remove it if needed.",
+      "description": "MelonLoader utility client.\nInstalls Magnetar Client.dll, Magnetar Data, Magnetar Translation, and the required UserLibs/DiscordRPC.dll together.\nOn multilingual builds, Blooms_QOL.dll may conflict; disable or remove it if needed.",
       "version": "4.0.0",
       "game": "PlantsVsZombiesRH",
       "loader": "MelonLoader",
