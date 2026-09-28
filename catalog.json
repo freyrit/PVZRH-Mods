@@ -46,6 +46,22 @@
       "sourceUrl": "https://github.com/Tproplay/Simple-Spawner",
       "installAssembly": "SimpleSpawner",
       "installFileName": "SimpleSpawner.Melonloader.dll"
+    },
+    {
+      "id": "moreshovel",
+      "name": "MoreShovel",
+      "author": "tingyuyehe (original), Freyrit (Fusion 4.0 port)",
+      "description": "Adds alternate shovel effects. Press Ctrl+Z or Shift+Z to cycle shovel types. For Plants vs. Zombies RH 4.0 with MelonLoader.",
+      "version": "4.0",
+      "game": "PlantsVsZombiesRH",
+      "loader": "MelonLoader",
+      "category": "Gameplay",
+      "downloadUrl": "https://github.com/freyrit/PVZRH-Mods/releases/download/v4.0/MoreShovels.zip",
+      "sha256": "fe2a3ed58d8823a0e2c41f28783a8ace1dfcec1edec5cac79f77ea713d71dad1",
+      "fileSize": 127848,
+      "sourceUrl": "https://github.com/freyrit/PVZRH-Mods",
+      "installAssembly": "MoreShovel.MelonLoader",
+      "installFileName": "MoreShovel.MelonLoader.dll"
     }
   ]
 }
