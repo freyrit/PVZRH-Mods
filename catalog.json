@@ -30,6 +30,22 @@
       "sourceUrl": "https://github.com/Tproplay/Magnetar-Client",
       "installAssembly": "Magnetar Client",
       "installFileName": "Magnetar Client.dll"
+    },
+    {
+      "id": "simple-spawner",
+      "name": "Simple Spawner",
+      "author": "Tproplay",
+      "description": "Select plants or zombies from the Almanac and spawn them in-game. Includes time freeze controls. MelonLoader build for Plants vs. Zombies Fusion 4.0.",
+      "version": "4.0.0",
+      "game": "PlantsVsZombiesRH",
+      "loader": "MelonLoader",
+      "category": "Gameplay",
+      "downloadUrl": "https://github.com/Tproplay/Simple-Spawner/releases/download/v4.0.0/SimpleSpawner.Melonloader.dll",
+      "sha256": "81cb386256b5e83930e6bb30baa8b87c1f19fe7a5a07c6018542178b6da51e8d",
+      "fileSize": 28672,
+      "sourceUrl": "https://github.com/Tproplay/Simple-Spawner",
+      "installAssembly": "SimpleSpawner",
+      "installFileName": "SimpleSpawner.Melonloader.dll"
     }
   ]
 }
